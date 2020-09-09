@@ -1,0 +1,14 @@
+# Test 1
+line Number=19606
+
+System:
+Vendor Name: Mellanox Technologies,
+Device Name: MT27700 Family [ConnectX-4]
+
+(VenID, DevID) = (15b3 ,1013)
+Desc
+SubSystem:
+    (sVID sDID) = (15b3,0005)
+    Desc:  Mellanox Technologies ConnectX-4 Stand-up single-port 40GbE MCX413A-BCAT
+
+Input: (v,d, sv, sd, prodNo) = (15b3, 1013, 15b3, 0004, 872726-H21)
